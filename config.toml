@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My Daily Diary"
+relativeURLs = true
+canonifyURLs = true
+theme = "ananke" 
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+disqusShortname = "dailydiary"
+[params]
+featured_image = "/505642.png"
+recent_posts_number = 2
